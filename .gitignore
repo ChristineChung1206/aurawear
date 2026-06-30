@@ -1,0 +1,59 @@
+# Secrets
+.env
+*.env
+
+# Python
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# IDE / local tooling
+.gradio/
+.vscode/
+settings.json
+certificate.pem
+
+# Logs and session data
+logs/
+*.log
+rank_debug.json
+interactions.jsonl
+participant_data/
+
+# Dataset files — DeepFashion-MultiModal (non-commercial license, not redistributable)
+aurawear_analysis/data/products/images/
+aurawear_analysis/data/products/images.zip
+aurawear_analysis/data/products/segm/
+aurawear_analysis/data/products/parsing/
+aurawear_analysis/data/products/parsing.zip
+aurawear_analysis/data/products/labels/
+aurawear_analysis/data/products/labels.zip
+aurawear_analysis/data/products/shape/
+aurawear_analysis/data/products/texture/
+aurawear_analysis/data/products/textual_descriptions.json
+aurawear_analysis/data/items_deepfashion.json
+data/raw/
+data/processed/
+data/embeddings/
+data/deepfashion/
+
+# Model weights (CelebAMask-HQ derived, not redistributable)
+*.pth
+*.onnx
+*.onnx.data
+checkpoints/
+aurawear_analysis/assets/models/*.pth
+aurawear_analysis/assets/models/*.onnx
+aurawear_analysis/assets/models/*.onnx.data
+outputs/
+
+# Training artifacts
+training_curves.png

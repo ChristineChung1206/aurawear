@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "AuraWear Analysis"
+abstract: >
+  AuraWear is a human-in-the-loop fashion recommendation system integrating
+  personal color analysis with LLM-driven intent understanding. The system
+  diagnoses the user's 12-season personal color type from a selfie, constructs
+  a curated seasonal palette, and recommends clothing items through a
+  multi-signal reranking pipeline with real-time preference learning.
+authors:
+  - family-names: Chung
+    given-names: Pei-Chen
+version: "1.0.0"
+date-released: "2026-06-30"
+license: AGPL-3.0-only
+repository-code: "https://github.com/peichenchung/aurawear_analysis"
+keywords:
+  - fashion recommendation
+  - personal color analysis
+  - human-in-the-loop
+  - CLIP
+  - Gradio
+  - LLM
+  - reranking
+  - seasonal color theory

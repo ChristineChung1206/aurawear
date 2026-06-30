@@ -1,0 +1,21 @@
+item_id,image_uri,category,dominant_hex,title,style,brand,tags,meta_text
+mock_001,placeholder.png,top,#F5E6D3,Ivory linen blouse,Minimal,MockBrand,linen;minimal;short-sleeve;covers-navel,A relaxed-fit linen blouse in warm ivory. Lightweight and breathable for warm weather.
+mock_002,placeholder.png,dress,#8B4B62,Dusty rose wrap dress,Feminine,MockBrand,wrap;midi;feminine;covers-navel;chiffon,A midi wrap dress in dusty rose chiffon. Flattering silhouette with a self-tie waist.
+mock_003,placeholder.png,pants,#2C3E50,Navy straight-leg trousers,Polished,MockBrand,straight-leg;long;cotton;covers-navel;polished,Classic straight-leg trousers in navy cotton. Structured cut suitable for office wear.
+mock_004,placeholder.png,outer,#C9B99A,Camel wool coat,Classic,MockBrand,long;not-cardigan;wool;outer;classic,A long camel-toned wool coat with a clean lapel. Timeless and versatile for autumn.
+mock_005,placeholder.png,top,#E8D5C4,Blush ribbed knit sweater,Soft,MockBrand,knitted;long-sleeve;covers-navel;soft;round,A blush pink ribbed knit sweater with a round neckline. Cozy and warm for cooler days.
+mock_006,placeholder.png,skirt,#D4A5A5,Mauve pleated midi skirt,Feminine,MockBrand,midi;pleated;three-quarter;feminine;chiffon,A pleated midi skirt in soft mauve chiffon. Flowy silhouette with gentle movement.
+mock_007,placeholder.png,dress,#4A6741,Sage green linen dress,Relaxed,MockBrand,linen;relaxed;short-sleeve;midi;covers-navel,A loose-fit linen dress in sage green. Effortless summer style with a relaxed drape.
+mock_008,placeholder.png,pants,#8C7B6B,Taupe wide-leg trousers,Minimal,MockBrand,wide-leg;long;cotton;minimal;covers-navel,Wide-leg trousers in warm taupe. Clean silhouette with a high-rise waist.
+mock_009,placeholder.png,top,#FFFFFF,White cotton button-down,Classic,MockBrand,cotton;long-sleeve;classic;v-shape;covers-navel,A crisp white cotton button-down shirt with a classic collar. Essential wardrobe staple.
+mock_010,placeholder.png,outer,#1C1C1C,Black structured blazer,Structured,MockBrand,outer;long-sleeve;lapel;not-cardigan;structured,A sharp black structured blazer with a double-button front. Polished and professional.
+mock_011,placeholder.png,dress,#C4956A,Terracotta slip dress,Bold,MockBrand,slip;midi;bold;sleeveless;covers-navel,A satin-finish slip dress in warm terracotta. Minimal silhouette with adjustable straps.
+mock_012,placeholder.png,top,#B5C4C1,Slate blue silk blouse,Polished,MockBrand,silk;short-sleeve;polished;v-shape;covers-navel,A slate blue silk blouse with a soft v-neckline. Elevated everyday top.
+mock_013,placeholder.png,skirt,#F0E6D3,Cream linen pencil skirt,Minimal,MockBrand,linen;pencil;medium-short;minimal;covers-navel,A fitted linen pencil skirt in warm cream. Clean lines and a modest knee-length hem.
+mock_014,placeholder.png,pants,#3D5A47,Forest green cargo pants,Casual,MockBrand,cargo;long;cotton;casual;covers-navel,Forest green cargo pants with functional side pockets. Relaxed yet structured fit.
+mock_015,placeholder.png,leggings,#2B2B2B,Charcoal ribbed leggings,Relaxed,MockBrand,knitted;leggings;long;relaxed,High-rise ribbed leggings in charcoal. Comfortable and versatile for active or casual wear.
+mock_016,placeholder.png,outer,#9B8EA8,Lavender trench coat,Soft,MockBrand,outer;long;lapel;not-cardigan;soft,A lavender trench coat with a belted waist and classic collar. Feminine and functional.
+mock_017,placeholder.png,top,#E8C9A0,Warm tan knit top,Casual,MockBrand,knitted;short-sleeve;casual;round;covers-navel,A warm tan knit top with a relaxed round neck. Easy pairing with any bottom.
+mock_018,placeholder.png,dress,#6B8CAE,Cornflower blue sundress,Relaxed,MockBrand,cotton;sleeveless;midi;relaxed;covers-navel,A cornflower blue cotton sundress with a smocked bodice. Light and breezy for summer.
+mock_019,placeholder.png,rompers,#D4B896,Sand linen romper,Relaxed,MockBrand,linen;rompers;short-sleeve;relaxed;covers-navel,A sand-toned linen romper with wide legs and a tie waist. Effortless one-piece dressing.
+mock_020,placeholder.png,outer,#C17F6E,Rust quilted vest,Bold,MockBrand,outer;sleeveless;bold;not-cardigan,A rust-toned quilted vest with a zip front. Adds warmth and color as a layering piece.

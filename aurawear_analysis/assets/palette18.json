@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "ls_01",
+    "name": "Ivory",
+    "hex": "#FFF6E5",
+    "season": "Light Spring"
+  },
+  {
+    "id": "ls_02",
+    "name": "Warm Pearl",
+    "hex": "#F3E7D3",
+    "season": "Light Spring"
+  },
+  {
+    "id": "ls_03",
+    "name": "Honey Beige",
+    "hex": "#E6C9A8",
+    "season": "Light Spring"
+  },
+  {
+    "id": "ls_04",
+    "name": "Warm Stone",
+    "hex": "#B8A99A",
+    "season": "Light Spring"
+  },
+  {
+    "id": "ls_05",
+    "name": "Warm Navy",
+    "hex": "#2F3A4A",
+    "season": "Light Spring"
+  },
+  {
+    "id": "ls_06",
+    "name": "Soft Cocoa",
+    "hex": "#6B5647",
+    "season": "Light Spring"
+  },
+  {
+    "id": "ls_07",
+    "name": "Peach",
+    "hex": "#FFB48A",
+    "season": "Light Spring"
+  },
+  {
+    "id": "ls_08",
+    "name": "Apricot",
+    "hex": "#FFBC6E",
+    "season": "Light Spring"
+  },
+  {
+    "id": "ls_09",
+    "name": "Butter Yellow",
+    "hex": "#FFF2A8",
+    "season": "Light Spring"
+  },
+  {
+    "id": "ls_10",
+    "name": "Apple Green",
+    "hex": "#A8D05F",
+    "season": "Light Spring"
+  },
+  {
+    "id": "ls_11",
+    "name": "Pistachio",
+    "hex": "#8FCB7A",
+    "season": "Light Spring"
+  },
+  {
+    "id": "ls_12",
+    "name": "Warm Aqua",
+    "hex": "#66D6C5",
+    "season": "Light Spring"
+  },
+  {
+    "id": "ls_13",
+    "name": "Sky Blue",
+    "hex": "#7EC7FF",
+    "season": "Light Spring"
+  },
+  {
+    "id": "ls_14",
+    "name": "Warm Periwinkle",
+    "hex": "#B7B9FF",
+    "season": "Light Spring"
+  },
+  {
+    "id": "ls_15",
+    "name": "Coral Pink",
+    "hex": "#FF8D8A",
+    "season": "Light Spring"
+  },
+  {
+    "id": "ls_16",
+    "name": "Salmon",
+    "hex": "#FF9E8F",
+    "season": "Light Spring"
+  },
+  {
+    "id": "ls_17",
+    "name": "Spring Lilac",
+    "hex": "#D6A5E8",
+    "season": "Light Spring"
+  },
+  {
+    "id": "ls_18",
+    "name": "Soft Turquoise",
+    "hex": "#4BC0B8",
+    "season": "Light Spring"
+  },
+  {
+    "id": "ts_01",
+    "name": "Cream",
+    "hex": "#FFF1D6",
+    "season": "True Spring"
+  },
+  {
+    "id": "ts_02",
+    "name": "Warm Ivory",
+    "hex": "#F8E7C3",
+    "season": "True Spring"
+  },
+  {
+    "id": "ts_03",
+    "name": "Camel",
+    "hex": "#C9A26B",
+    "season": "True Spring"
+  },
+  {
+    "id": "ts_04",
+    "name": "Warm Taupe",
+    "hex": "#A6876B",
+    "season": "True Spring"
+  },
+  {
+    "id": "ts_05",
+    "name": "Chocolate Brown",
+    "hex": "#5A3A22",
+    "season": "True Spring"
+  },
+  {
+    "id": "ts_06",
+    "name": "Bright Navy",
+    "hex": "#1E3A5F",
+    "season": "True Spring"
+  },
+  {
+    "id": "ts_07",
+    "name": "Tomato Red",
+    "hex": "#FF4B3A",
+    "season": "True Spring"
+  },
+  {
+    "id": "ts_08",
+    "name": "Coral",
+    "hex": "#FF6B5A",
+    "season": "True Spring"
+  },
+  {
+    "id": "ts_09",
+    "name": "Marigold",
+    "hex": "#FFB300",
+    "season": "True Spring"
+  },
+  {
+    "id": "ts_10",
+    "name": "Sunflower Yellow",
+    "hex": "#FFD23F",
+    "season": "True Spring"
+  },
+  {
+    "id": "ts_11",
+    "name": "Leaf Green",
+    "hex": "#2FA84F",
+    "season": "True Spring"
+  },
+  {
+    "id": "ts_12",
+    "name": "Grass Green",
+    "hex": "#66C24A",
+    "season": "True Spring"
+  },
+  {
+    "id": "ts_13",
+    "name": "Turquoise",
+    "hex": "#00BFB3",
+    "season": "True Spring"
+  },
+  {
+    "id": "ts_14",
+    "name": "Aqua",
+    "hex": "#00D5D8",
+    "season": "True Spring"
+  },
+  {
+    "id": "ts_15",
+    "name": "Warm Sky",
+    "hex": "#2FA8FF",
+    "season": "True Spring"
+  },
+  {
+    "id": "ts_16",
+    "name": "Peacock Blue",
+    "hex": "#007BA7",
+    "season": "True Spring"
+  },
+  {
+    "id": "ts_17",
+    "name": "Warm Pink",
+    "hex": "#FF5FA2",
+    "season": "True Spring"
+  },
+  {
+    "id": "ts_18",
+    "name": "Apple Blossom",
+    "hex": "#FF8FB3",
+    "season": "True Spring"
+  },
+  {
+    "id": "bs_01",
+    "name": "Bright Ivory",
+    "hex": "#FFF9E8",
+    "season": "Bright Spring"
+  },
+  {
+    "id": "bs_02",
+    "name": "Sand",
+    "hex": "#E8D3B1",
+    "season": "Bright Spring"
+  },
+  {
+    "id": "bs_03",
+    "name": "Tan",
+    "hex": "#C59A6C",
+    "season": "Bright Spring"
+  },
+  {
+    "id": "bs_04",
+    "name": "Warm Grey",
+    "hex": "#9E9084",
+    "season": "Bright Spring"
+  },
+  {
+    "id": "bs_05",
+    "name": "Ink Navy",
+    "hex": "#1A2A4A",
+    "season": "Bright Spring"
+  },
+  {
+    "id": "bs_06",
+    "name": "Espresso",
+    "hex": "#3B2416",
+    "season": "Bright Spring"
+  },
+  {
+    "id": "bs_07",
+    "name": "Hot Coral",
+    "hex": "#FF3B4F",
+    "season": "Bright Spring"
+  },
+  {
+    "id": "bs_08",
+    "name": "Tangerine",
+    "hex": "#FF6A00",
+    "season": "Bright Spring"
+  },
+  {
+    "id": "bs_09",
+    "name": "Lime",
+    "hex": "#7CFF00",
+    "season": "Bright Spring"
+  },
+  {
+    "id": "bs_10",
+    "name": "Lemon",
+    "hex": "#FFF400",
+    "season": "Bright Spring"
+  },
+  {
+    "id": "bs_11",
+    "name": "Electric Aqua",
+    "hex": "#00F5FF",
+    "season": "Bright Spring"
+  },
+  {
+    "id": "bs_12",
+    "name": "Bright Turquoise",
+    "hex": "#00E0C6",
+    "season": "Bright Spring"
+  },
+  {
+    "id": "bs_13",
+    "name": "Vivid Blue",
+    "hex": "#0077FF",
+    "season": "Bright Spring"
+  },
+  {
+    "id": "bs_14",
+    "name": "Royal Blue",
+    "hex": "#1E53FF",
+    "season": "Bright Spring"
+  },
+  {
+    "id": "bs_15",
+    "name": "Fuchsia",
+    "hex": "#FF2BBF",
+    "season": "Bright Spring"
+  },
+  {
+    "id": "bs_16",
+    "name": "Bubblegum Pink",
+    "hex": "#FF6BD6",
+    "season": "Bright Spring"
+  },
+  {
+    "id": "bs_17",
+    "name": "Chartreuse",
+    "hex": "#B7FF00",
+    "season": "Bright Spring"
+  },
+  {
+    "id": "bs_18",
+    "name": "Scarlet",
+    "hex": "#FF2400",
+    "season": "Bright Spring"
+  },
+  {
+    "id": "lsu_01",
+    "name": "Soft White",
+    "hex": "#F6F7FB",
+    "season": "Light Summer"
+  },
+  {
+    "id": "lsu_02",
+    "name": "Cool Ivory",
+    "hex": "#EEE7F2",
+    "season": "Light Summer"
+  },
+  {
+    "id": "lsu_03",
+    "name": "Dove Grey",
+    "hex": "#CFCFD6",
+    "season": "Light Summer"
+  },
+  {
+    "id": "lsu_04",
+    "name": "Mushroom",
+    "hex": "#B2A9A7",
+    "season": "Light Summer"
+  },
+  {
+    "id": "lsu_05",
+    "name": "Soft Navy",
+    "hex": "#2E3A55",
+    "season": "Light Summer"
+  },
+  {
+    "id": "lsu_06",
+    "name": "Cool Charcoal",
+    "hex": "#4B4F5A",
+    "season": "Light Summer"
+  },
+  {
+    "id": "lsu_07",
+    "name": "Powder Blue",
+    "hex": "#B7D9F2",
+    "season": "Light Summer"
+  },
+  {
+    "id": "lsu_08",
+    "name": "Sky Mist",
+    "hex": "#A9CBE8",
+    "season": "Light Summer"
+  },
+  {
+    "id": "lsu_09",
+    "name": "Seafoam",
+    "hex": "#A7E3D2",
+    "season": "Light Summer"
+  },
+  {
+    "id": "lsu_10",
+    "name": "Mint",
+    "hex": "#B8F2D2",
+    "season": "Light Summer"
+  },
+  {
+    "id": "lsu_11",
+    "name": "Lavender",
+    "hex": "#C9C3F5",
+    "season": "Light Summer"
+  },
+  {
+    "id": "lsu_12",
+    "name": "Periwinkle",
+    "hex": "#B9B7F0",
+    "season": "Light Summer"
+  },
+  {
+    "id": "lsu_13",
+    "name": "Blush Pink",
+    "hex": "#F6C9D6",
+    "season": "Light Summer"
+  },
+  {
+    "id": "lsu_14",
+    "name": "Rosewater",
+    "hex": "#F3B7C7",
+    "season": "Light Summer"
+  },
+  {
+    "id": "lsu_15",
+    "name": "Soft Berry",
+    "hex": "#C98AA8",
+    "season": "Light Summer"
+  },
+  {
+    "id": "lsu_16",
+    "name": "Icy Lilac",
+    "hex": "#D9D0F5",
+    "season": "Light Summer"
+  },
+  {
+    "id": "lsu_17",
+    "name": "Cool Aqua",
+    "hex": "#9EE7F0",
+    "season": "Light Summer"
+  },
+  {
+    "id": "lsu_18",
+    "name": "Denim Blue",
+    "hex": "#8DB2D6",
+    "season": "Light Summer"
+  },
+  {
+    "id": "tsu_01",
+    "name": "Cool White",
+    "hex": "#F5F6FA",
+    "season": "True Summer"
+  },
+  {
+    "id": "tsu_02",
+    "name": "Silver",
+    "hex": "#C9CCD6",
+    "season": "True Summer"
+  },
+  {
+    "id": "tsu_03",
+    "name": "Cool Grey",
+    "hex": "#9FA6B2",
+    "season": "True Summer"
+  },
+  {
+    "id": "tsu_04",
+    "name": "Slate",
+    "hex": "#6C7584",
+    "season": "True Summer"
+  },
+  {
+    "id": "tsu_05",
+    "name": "Navy",
+    "hex": "#1F2A44",
+    "season": "True Summer"
+  },
+  {
+    "id": "tsu_06",
+    "name": "Charcoal",
+    "hex": "#3D424A",
+    "season": "True Summer"
+  },
+  {
+    "id": "tsu_07",
+    "name": "Dusty Rose",
+    "hex": "#C58C9C",
+    "season": "True Summer"
+  },
+  {
+    "id": "tsu_08",
+    "name": "Cool Pink",
+    "hex": "#E28BAA",
+    "season": "True Summer"
+  },
+  {
+    "id": "tsu_09",
+    "name": "Raspberry",
+    "hex": "#B31B5C",
+    "season": "True Summer"
+  },
+  {
+    "id": "tsu_10",
+    "name": "Berry Wine",
+    "hex": "#7A2E4A",
+    "season": "True Summer"
+  },
+  {
+    "id": "tsu_11",
+    "name": "Cornflower",
+    "hex": "#6C8CEB",
+    "season": "True Summer"
+  },
+  {
+    "id": "tsu_12",
+    "name": "Steel Blue",
+    "hex": "#4F7DA6",
+    "season": "True Summer"
+  },
+  {
+    "id": "tsu_13",
+    "name": "Smoky Teal",
+    "hex": "#3E8C92",
+    "season": "True Summer"
+  },
+  {
+    "id": "tsu_14",
+    "name": "Jade",
+    "hex": "#2FA79A",
+    "season": "True Summer"
+  },
+  {
+    "id": "tsu_15",
+    "name": "Periwinkle",
+    "hex": "#7E7FD6",
+    "season": "True Summer"
+  },
+  {
+    "id": "tsu_16",
+    "name": "Lavender",
+    "hex": "#A68AD6",
+    "season": "True Summer"
+  },
+  {
+    "id": "tsu_17",
+    "name": "Plum",
+    "hex": "#6B3F6B",
+    "season": "True Summer"
+  },
+  {
+    "id": "tsu_18",
+    "name": "Blue Violet",
+    "hex": "#5C5AAE",
+    "season": "True Summer"
+  },
+  {
+    "id": "ssu_01",
+    "name": "Soft White",
+    "hex": "#F4F3F6",
+    "season": "Soft Summer"
+  },
+  {
+    "id": "ssu_02",
+    "name": "Cool Beige",
+    "hex": "#D9D2CC",
+    "season": "Soft Summer"
+  },
+  {
+    "id": "ssu_03",
+    "name": "Mauve Taupe",
+    "hex": "#B3A2A8",
+    "season": "Soft Summer"
+  },
+  {
+    "id": "ssu_04",
+    "name": "Pewter",
+    "hex": "#8B8C93",
+    "season": "Soft Summer"
+  },
+  {
+    "id": "ssu_05",
+    "name": "Soft Navy",
+    "hex": "#28324A",
+    "season": "Soft Summer"
+  },
+  {
+    "id": "ssu_06",
+    "name": "Smoky Charcoal",
+    "hex": "#43424A",
+    "season": "Soft Summer"
+  },
+  {
+    "id": "ssu_07",
+    "name": "Dusty Mauve",
+    "hex": "#B58AA0",
+    "season": "Soft Summer"
+  },
+  {
+    "id": "ssu_08",
+    "name": "Smoky Rose",
+    "hex": "#C48A8A",
+    "season": "Soft Summer"
+  },
+  {
+    "id": "ssu_09",
+    "name": "Muted Berry",
+    "hex": "#8F4B6B",
+    "season": "Soft Summer"
+  },
+  {
+    "id": "ssu_10",
+    "name": "Soft Plum",
+    "hex": "#6A3A55",
+    "season": "Soft Summer"
+  },
+  {
+    "id": "ssu_11",
+    "name": "Fog Blue",
+    "hex": "#9FB7D0",
+    "season": "Soft Summer"
+  },
+  {
+    "id": "ssu_12",
+    "name": "Blue Grey",
+    "hex": "#7D8EA3",
+    "season": "Soft Summer"
+  },
+  {
+    "id": "ssu_13",
+    "name": "Smoky Teal",
+    "hex": "#5A8E8C",
+    "season": "Soft Summer"
+  },
+  {
+    "id": "ssu_14",
+    "name": "Sage Grey",
+    "hex": "#8DA19A",
+    "season": "Soft Summer"
+  },
+  {
+    "id": "ssu_15",
+    "name": "Muted Lavender",
+    "hex": "#A6A0C8",
+    "season": "Soft Summer"
+  },
+  {
+    "id": "ssu_16",
+    "name": "Dusty Periwinkle",
+    "hex": "#9C9FD6",
+    "season": "Soft Summer"
+  },
+  {
+    "id": "ssu_17",
+    "name": "Rose Brown",
+    "hex": "#8F6B6F",
+    "season": "Soft Summer"
+  },
+  {
+    "id": "ssu_18",
+    "name": "Soft Wine",
+    "hex": "#6F2E3B",
+    "season": "Soft Summer"
+  },
+  {
+    "id": "sau_01",
+    "name": "Cream",
+    "hex": "#F5E9D6",
+    "season": "Soft Autumn"
+  },
+  {
+    "id": "sau_02",
+    "name": "Oat",
+    "hex": "#E6D1B3",
+    "season": "Soft Autumn"
+  },
+  {
+    "id": "sau_03",
+    "name": "Warm Taupe",
+    "hex": "#B39A82",
+    "season": "Soft Autumn"
+  },
+  {
+    "id": "sau_04",
+    "name": "Mushroom Brown",
+    "hex": "#8E7B6A",
+    "season": "Soft Autumn"
+  },
+  {
+    "id": "sau_05",
+    "name": "Olive Drab",
+    "hex": "#5E6243",
+    "season": "Soft Autumn"
+  },
+  {
+    "id": "sau_06",
+    "name": "Soft Espresso",
+    "hex": "#4A3B2F",
+    "season": "Soft Autumn"
+  },
+  {
+    "id": "sau_07",
+    "name": "Warm Sage",
+    "hex": "#9AA88F",
+    "season": "Soft Autumn"
+  },
+  {
+    "id": "sau_08",
+    "name": "Muted Olive",
+    "hex": "#8A9A5B",
+    "season": "Soft Autumn"
+  },
+  {
+    "id": "sau_09",
+    "name": "Moss",
+    "hex": "#7F8A5A",
+    "season": "Soft Autumn"
+  },
+  {
+    "id": "sau_10",
+    "name": "Dusty Teal",
+    "hex": "#3D7F7A",
+    "season": "Soft Autumn"
+  },
+  {
+    "id": "sau_11",
+    "name": "Terracotta",
+    "hex": "#C76E4F",
+    "season": "Soft Autumn"
+  },
+  {
+    "id": "sau_12",
+    "name": "Clay Rose",
+    "hex": "#C2877A",
+    "season": "Soft Autumn"
+  },
+  {
+    "id": "sau_13",
+    "name": "Muted Mustard",
+    "hex": "#C6A23A",
+    "season": "Soft Autumn"
+  },
+  {
+    "id": "sau_14",
+    "name": "Antique Gold",
+    "hex": "#B9A15A",
+    "season": "Soft Autumn"
+  },
+  {
+    "id": "sau_15",
+    "name": "Soft Peach",
+    "hex": "#F0B7A2",
+    "season": "Soft Autumn"
+  },
+  {
+    "id": "sau_16",
+    "name": "Warm Rose",
+    "hex": "#C98978",
+    "season": "Soft Autumn"
+  },
+  {
+    "id": "sau_17",
+    "name": "Cinnamon",
+    "hex": "#9B5B3E",
+    "season": "Soft Autumn"
+  },
+  {
+    "id": "sau_18",
+    "name": "Warm Denim",
+    "hex": "#5E7B8A",
+    "season": "Soft Autumn"
+  },
+  {
+    "id": "tau_01",
+    "name": "Ivory",
+    "hex": "#FFF2D6",
+    "season": "True Autumn"
+  },
+  {
+    "id": "tau_02",
+    "name": "Camel",
+    "hex": "#C9A26B",
+    "season": "True Autumn"
+  },
+  {
+    "id": "tau_03",
+    "name": "Warm Beige",
+    "hex": "#D8BF9A",
+    "season": "True Autumn"
+  },
+  {
+    "id": "tau_04",
+    "name": "Warm Brown",
+    "hex": "#8B5A2B",
+    "season": "True Autumn"
+  },
+  {
+    "id": "tau_05",
+    "name": "Dark Brown",
+    "hex": "#4A2C1A",
+    "season": "True Autumn"
+  },
+  {
+    "id": "tau_06",
+    "name": "Warm Navy",
+    "hex": "#223348",
+    "season": "True Autumn"
+  },
+  {
+    "id": "tau_07",
+    "name": "Pumpkin",
+    "hex": "#FF7A18",
+    "season": "True Autumn"
+  },
+  {
+    "id": "tau_08",
+    "name": "Burnt Orange",
+    "hex": "#CC5500",
+    "season": "True Autumn"
+  },
+  {
+    "id": "tau_09",
+    "name": "Rust",
+    "hex": "#B7410E",
+    "season": "True Autumn"
+  },
+  {
+    "id": "tau_10",
+    "name": "Tomato Brick",
+    "hex": "#B54A2E",
+    "season": "True Autumn"
+  },
+  {
+    "id": "tau_11",
+    "name": "Mustard",
+    "hex": "#D4A017",
+    "season": "True Autumn"
+  },
+  {
+    "id": "tau_12",
+    "name": "Old Gold",
+    "hex": "#B8860B",
+    "season": "True Autumn"
+  },
+  {
+    "id": "tau_13",
+    "name": "Olive",
+    "hex": "#7A7D00",
+    "season": "True Autumn"
+  },
+  {
+    "id": "tau_14",
+    "name": "Forest Green",
+    "hex": "#1E6B3A",
+    "season": "True Autumn"
+  },
+  {
+    "id": "tau_15",
+    "name": "Peacock Teal",
+    "hex": "#00796B",
+    "season": "True Autumn"
+  },
+  {
+    "id": "tau_16",
+    "name": "Teal Blue",
+    "hex": "#006D77",
+    "season": "True Autumn"
+  },
+  {
+    "id": "tau_17",
+    "name": "Warm Coral",
+    "hex": "#FF6F61",
+    "season": "True Autumn"
+  },
+  {
+    "id": "tau_18",
+    "name": "Aubergine Brown",
+    "hex": "#5A1F1A",
+    "season": "True Autumn"
+  },
+  {
+    "id": "dau_01",
+    "name": "Warm Ivory",
+    "hex": "#F3E6D0",
+    "season": "Deep Autumn"
+  },
+  {
+    "id": "dau_02",
+    "name": "Dark Camel",
+    "hex": "#8B5A2B",
+    "season": "Deep Autumn"
+  },
+  {
+    "id": "dau_03",
+    "name": "Chestnut",
+    "hex": "#7A3E2E",
+    "season": "Deep Autumn"
+  },
+  {
+    "id": "dau_04",
+    "name": "Espresso",
+    "hex": "#3B2416",
+    "season": "Deep Autumn"
+  },
+  {
+    "id": "dau_05",
+    "name": "Deep Olive",
+    "hex": "#3D4A2F",
+    "season": "Deep Autumn"
+  },
+  {
+    "id": "dau_06",
+    "name": "Warm Charcoal",
+    "hex": "#2B2B2B",
+    "season": "Deep Autumn"
+  },
+  {
+    "id": "dau_07",
+    "name": "Deep Rust",
+    "hex": "#8B4000",
+    "season": "Deep Autumn"
+  },
+  {
+    "id": "dau_08",
+    "name": "Oxblood",
+    "hex": "#5A0B0B",
+    "season": "Deep Autumn"
+  },
+  {
+    "id": "dau_09",
+    "name": "Brick Red",
+    "hex": "#8E2F2F",
+    "season": "Deep Autumn"
+  },
+  {
+    "id": "dau_10",
+    "name": "Burgundy Brown",
+    "hex": "#4A1E2A",
+    "season": "Deep Autumn"
+  },
+  {
+    "id": "dau_11",
+    "name": "Deep Mustard",
+    "hex": "#B8860B",
+    "season": "Deep Autumn"
+  },
+  {
+    "id": "dau_12",
+    "name": "Antique Gold",
+    "hex": "#8F6B2A",
+    "season": "Deep Autumn"
+  },
+  {
+    "id": "dau_13",
+    "name": "Forest Green",
+    "hex": "#1B4D3E",
+    "season": "Deep Autumn"
+  },
+  {
+    "id": "dau_14",
+    "name": "Deep Teal",
+    "hex": "#004B49",
+    "season": "Deep Autumn"
+  },
+  {
+    "id": "dau_15",
+    "name": "Peacock",
+    "hex": "#005F5F",
+    "season": "Deep Autumn"
+  },
+  {
+    "id": "dau_16",
+    "name": "Warm Petrol",
+    "hex": "#1E4E5A",
+    "season": "Deep Autumn"
+  },
+  {
+    "id": "dau_17",
+    "name": "Auburn",
+    "hex": "#A52A2A",
+    "season": "Deep Autumn"
+  },
+  {
+    "id": "dau_18",
+    "name": "Deep Bronze",
+    "hex": "#4E3B31",
+    "season": "Deep Autumn"
+  },
+  {
+    "id": "bw_01",
+    "name": "Crisp White",
+    "hex": "#F8F8FF",
+    "season": "Bright Winter"
+  },
+  {
+    "id": "bw_02",
+    "name": "Icy Grey",
+    "hex": "#DADDE5",
+    "season": "Bright Winter"
+  },
+  {
+    "id": "bw_03",
+    "name": "Cool Grey",
+    "hex": "#9AA3B2",
+    "season": "Bright Winter"
+  },
+  {
+    "id": "bw_04",
+    "name": "Graphite",
+    "hex": "#2B2F36",
+    "season": "Bright Winter"
+  },
+  {
+    "id": "bw_05",
+    "name": "True Black",
+    "hex": "#0A0A0A",
+    "season": "Bright Winter"
+  },
+  {
+    "id": "bw_06",
+    "name": "Navy Ink",
+    "hex": "#0E1A33",
+    "season": "Bright Winter"
+  },
+  {
+    "id": "bw_07",
+    "name": "True Red",
+    "hex": "#FF0000",
+    "season": "Bright Winter"
+  },
+  {
+    "id": "bw_08",
+    "name": "Fuchsia",
+    "hex": "#FF00B8",
+    "season": "Bright Winter"
+  },
+  {
+    "id": "bw_09",
+    "name": "Magenta",
+    "hex": "#FF00FF",
+    "season": "Bright Winter"
+  },
+  {
+    "id": "bw_10",
+    "name": "Electric Blue",
+    "hex": "#007BFF",
+    "season": "Bright Winter"
+  },
+  {
+    "id": "bw_11",
+    "name": "Cobalt",
+    "hex": "#0047AB",
+    "season": "Bright Winter"
+  },
+  {
+    "id": "bw_12",
+    "name": "Bright Cyan",
+    "hex": "#00FFFF",
+    "season": "Bright Winter"
+  },
+  {
+    "id": "bw_13",
+    "name": "Emerald",
+    "hex": "#00A86B",
+    "season": "Bright Winter"
+  },
+  {
+    "id": "bw_14",
+    "name": "Bright Teal",
+    "hex": "#00CED1",
+    "season": "Bright Winter"
+  },
+  {
+    "id": "bw_15",
+    "name": "Neon Violet",
+    "hex": "#8F00FF",
+    "season": "Bright Winter"
+  },
+  {
+    "id": "bw_16",
+    "name": "Hot Pink",
+    "hex": "#FF2D95",
+    "season": "Bright Winter"
+  },
+  {
+    "id": "bw_17",
+    "name": "Lemon Ice",
+    "hex": "#FFF44F",
+    "season": "Bright Winter"
+  },
+  {
+    "id": "bw_18",
+    "name": "Ice Blue",
+    "hex": "#9FE8FF",
+    "season": "Bright Winter"
+  },
+  {
+    "id": "tw_01",
+    "name": "Crisp White",
+    "hex": "#F5F5F5",
+    "season": "True Winter"
+  },
+  {
+    "id": "tw_02",
+    "name": "Ice Grey",
+    "hex": "#DCDCDC",
+    "season": "True Winter"
+  },
+  {
+    "id": "tw_03",
+    "name": "Cool Grey",
+    "hex": "#A6A8B0",
+    "season": "True Winter"
+  },
+  {
+    "id": "tw_04",
+    "name": "Steel",
+    "hex": "#6D7480",
+    "season": "True Winter"
+  },
+  {
+    "id": "tw_05",
+    "name": "True Black",
+    "hex": "#0A0A0A",
+    "season": "True Winter"
+  },
+  {
+    "id": "tw_06",
+    "name": "True Navy",
+    "hex": "#1C2A44",
+    "season": "True Winter"
+  },
+  {
+    "id": "tw_07",
+    "name": "Cool Scarlet",
+    "hex": "#FF2400",
+    "season": "True Winter"
+  },
+  {
+    "id": "tw_08",
+    "name": "Ruby",
+    "hex": "#9B111E",
+    "season": "True Winter"
+  },
+  {
+    "id": "tw_09",
+    "name": "Burgundy",
+    "hex": "#5A0A1B",
+    "season": "True Winter"
+  },
+  {
+    "id": "tw_10",
+    "name": "Royal Blue",
+    "hex": "#4169E1",
+    "season": "True Winter"
+  },
+  {
+    "id": "tw_11",
+    "name": "Indigo",
+    "hex": "#2E3192",
+    "season": "True Winter"
+  },
+  {
+    "id": "tw_12",
+    "name": "Deep Cyan",
+    "hex": "#007C91",
+    "season": "True Winter"
+  },
+  {
+    "id": "tw_13",
+    "name": "Cool Emerald",
+    "hex": "#008B8B",
+    "season": "True Winter"
+  },
+  {
+    "id": "tw_14",
+    "name": "Cool Teal",
+    "hex": "#006D6F",
+    "season": "True Winter"
+  },
+  {
+    "id": "tw_15",
+    "name": "Violet",
+    "hex": "#6F2DBD",
+    "season": "True Winter"
+  },
+  {
+    "id": "tw_16",
+    "name": "Orchid",
+    "hex": "#DA70D6",
+    "season": "True Winter"
+  },
+  {
+    "id": "tw_17",
+    "name": "Icy Pink",
+    "hex": "#F2D7E9",
+    "season": "True Winter"
+  },
+  {
+    "id": "tw_18",
+    "name": "Ice Lavender",
+    "hex": "#E6E6FA",
+    "season": "True Winter"
+  },
+  {
+    "id": "dw_01",
+    "name": "Icy White",
+    "hex": "#F3F6FF",
+    "season": "Deep Winter"
+  },
+  {
+    "id": "dw_02",
+    "name": "Cool Grey",
+    "hex": "#B9C0CC",
+    "season": "Deep Winter"
+  },
+  {
+    "id": "dw_03",
+    "name": "Charcoal",
+    "hex": "#36454F",
+    "season": "Deep Winter"
+  },
+  {
+    "id": "dw_04",
+    "name": "Black",
+    "hex": "#0A0A0A",
+    "season": "Deep Winter"
+  },
+  {
+    "id": "dw_05",
+    "name": "Midnight Navy",
+    "hex": "#0B1026",
+    "season": "Deep Winter"
+  },
+  {
+    "id": "dw_06",
+    "name": "Deep Graphite",
+    "hex": "#1D252C",
+    "season": "Deep Winter"
+  },
+  {
+    "id": "dw_07",
+    "name": "Deep Burgundy",
+    "hex": "#800020",
+    "season": "Deep Winter"
+  },
+  {
+    "id": "dw_08",
+    "name": "Black Cherry",
+    "hex": "#3B0B0B",
+    "season": "Deep Winter"
+  },
+  {
+    "id": "dw_09",
+    "name": "Deep Ruby",
+    "hex": "#841B2D",
+    "season": "Deep Winter"
+  },
+  {
+    "id": "dw_10",
+    "name": "Eggplant",
+    "hex": "#311432",
+    "season": "Deep Winter"
+  },
+  {
+    "id": "dw_11",
+    "name": "Dark Plum",
+    "hex": "#580F41",
+    "season": "Deep Winter"
+  },
+  {
+    "id": "dw_12",
+    "name": "Dark Violet",
+    "hex": "#2E0854",
+    "season": "Deep Winter"
+  },
+  {
+    "id": "dw_13",
+    "name": "Dark Sapphire",
+    "hex": "#0F52BA",
+    "season": "Deep Winter"
+  },
+  {
+    "id": "dw_14",
+    "name": "Dark Indigo",
+    "hex": "#1A237E",
+    "season": "Deep Winter"
+  },
+  {
+    "id": "dw_15",
+    "name": "Deep Teal",
+    "hex": "#003333",
+    "season": "Deep Winter"
+  },
+  {
+    "id": "dw_16",
+    "name": "Deep Emerald",
+    "hex": "#004953",
+    "season": "Deep Winter"
+  },
+  {
+    "id": "dw_17",
+    "name": "Shadow Blue",
+    "hex": "#23395B",
+    "season": "Deep Winter"
+  },
+  {
+    "id": "dw_18",
+    "name": "Deep Rose",
+    "hex": "#C21E56",
+    "season": "Deep Winter"
+  }
+]
