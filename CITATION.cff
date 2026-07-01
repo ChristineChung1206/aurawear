@@ -14,7 +14,7 @@ authors:
 version: "1.0.0"
 date-released: "2026-06-30"
 license: AGPL-3.0-only
-repository-code: "https://github.com/peichenchung/aurawear_analysis"
+repository-code: "https://github.com/ChristineChung1206/aurawear"
 keywords:
   - fashion recommendation
   - personal color analysis
