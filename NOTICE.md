@@ -1,7 +1,16 @@
 # NOTICE
 
 AuraWear Analysis
-Copyright (C) 2025–2026 Pei-Chen Chung
+Source code and software documentation in this repository authored by
+Pei-Chen Chung, unless otherwise noted:
+
+Copyright © 2025–2026 Pei-Chen Chung.
+
+This notice does not modify the official authorship record of the associated
+C&C 2026 publication. Separately identified manuscripts, posters, publication
+figures, videos, datasets, model weights, and other publication or research
+materials are not licensed under either the AGPL-3.0-or-later software license
+or the CC BY 4.0 documentation license unless expressly stated otherwise.
 
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU Affero General Public License as published by the Free

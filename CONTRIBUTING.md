@@ -33,7 +33,7 @@ This is a research prototype. Contributions are welcome in the following areas:
 
 ## License
 
-By submitting a contribution, you agree that your work will be licensed under the project's [AGPL-3.0 license](LICENSE).
+By submitting a contribution, you agree that your work will be licensed under the project's [AGPL-3.0-or-later license](LICENSE).
 
 ## Attribution
 

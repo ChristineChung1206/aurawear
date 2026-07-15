@@ -81,16 +81,53 @@ aurawear_analysis/
     └── prepare_deepfashion.py     ← dataset preprocessing (requires DeepFashion)
 ```
 
+## Software and Publication Attribution
+
+This repository contains the public software release of AuraWear.
+
+Pei-Chen Chung is the primary system designer and implementer of the software
+source code contained in this repository, including the system architecture,
+model selection, recommendation logic, machine-learning and color-analysis
+pipeline, user interface, API integration, testing, debugging, and preparation
+of the public software release.
+
+The official C&C 2026 publication associated with AuraWear is a jointly authored
+research publication. Its official title, author order, affiliations, and
+citation follow the published record.
+
+Authorship of the published C&C 2026 paper is distinct from authorship of the
+software source code contained in this repository. This repository does not
+modify or replace the official authorship record of the published C&C 2026 paper.
+
 ## License
 
-Source code: [GNU Affero General Public License v3.0](LICENSE) (AGPL-3.0)  
+Source code: [GNU Affero General Public License v3.0](LICENSE) (AGPL-3.0-or-later)  
 Documentation and diagrams: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0), unless otherwise noted.
+
+The AGPL-3.0-or-later software license and CC BY 4.0 documentation license apply
+only to the source code and documentation expressly identified as covered by
+those licenses. Separately identified manuscripts, posters, publication figures,
+videos, datasets, model weights, and other publication or research materials are
+not licensed under either repository license unless expressly stated otherwise.
 
 See [NOTICE.md](NOTICE.md) for third-party attributions.
 
 ## Citation
 
-If you use this work, please cite it as described in [CITATION.cff](CITATION.cff).
+### Cite the Software
+
+If you use the AuraWear software, please cite the software release using the
+metadata in [CITATION.cff](CITATION.cff).
+
+### Cite the Published C&C 2026 Paper
+
+```
+Pei-Chen Chung and Pei-Hua Chen. 2026. AuraWear: Designing for Human-AI
+Co-Decision in Creative Fashion Recommendation. In Proceedings of the 2026
+Conference on Creativity and Cognition (C&C '26). Association for Computing
+Machinery, New York, NY, USA, 1527–1532.
+https://doi.org/10.1145/3803784.3816845
+```
 
 ## Authors
 

@@ -2,7 +2,7 @@
 
 ## Primary System Designer and Implementer
 
-**Pei-Chen Chung** designed and implemented the AuraWear Analysis system in its entirety. This document records the project's authorship and contribution history for academic and professional attribution purposes.
+**Pei-Chen Chung** is the primary system designer and implementer of the AuraWear software represented in this repository. This document records Pei-Chen Chung's software design, technical development, and implementation contributions to the public AuraWear software release contained in this repository. It does not replace, modify, or determine the official authorship record of the associated published C&C 2026 paper.
 
 ### System Contributions
 
@@ -23,4 +23,27 @@
 
 ### Attribution
 
-When citing or referencing this work, please attribute Pei-Chen Chung as the primary designer and implementer. See [CITATION.cff](CITATION.cff) for the recommended citation format.
+When citing or referencing the AuraWear software, please attribute Pei-Chen
+Chung as the primary system designer and implementer of the software source code
+in this repository. See [CITATION.cff](CITATION.cff) for the recommended
+software citation format.
+
+For citation of the published C&C 2026 paper, please use the official
+publication record. See the `## Citation` section in [README.md](README.md).
+
+---
+
+## Documented Non-Software Research Contributions
+
+The following records documented non-software contributions to the associated
+C&C 2026 research and publication.
+
+### Pei-Hua Chen
+
+- Proposed the initial high-level research direction of combining machine
+  learning and color theory for fashion recommendation
+- Writing — review and editing
+- Supervision
+
+These documented research roles are distinct from authorship and implementation
+of the software source code contained in this repository.

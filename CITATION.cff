@@ -1,5 +1,8 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: >
+  If you use the AuraWear software, please cite this software release using
+  the metadata below. For the associated C&C 2026 research publication,
+  please see the publication citation in README.md.
 type: software
 title: "AuraWear Analysis"
 abstract: >
@@ -13,7 +16,7 @@ authors:
     given-names: Pei-Chen
 version: "1.0.0"
 date-released: "2026-06-30"
-license: AGPL-3.0-only
+license: AGPL-3.0-or-later
 repository-code: "https://github.com/ChristineChung1206/aurawear"
 keywords:
   - fashion recommendation
